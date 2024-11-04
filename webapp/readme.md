@@ -1,0 +1,1 @@
+﻿To compile the solution you need Visual Studio IDE older than VS 2022 
